@@ -1,0 +1,31 @@
+# Logs
+*.log
+*.txt
+
+# Temp / backup
+*.tmp
+*.bak
+*.old
+
+# Output / exports
+*.csv
+*.xml
+*.json
+
+# Certificates (never commit these)
+*.pfx
+*.cer
+*.key
+
+# Binaries
+*.exe
+*.msi
+*.zip
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
+.DS_Store
