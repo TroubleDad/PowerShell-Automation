@@ -1,0 +1,129 @@
+﻿[2026-06-20 05:31:35] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 05:31:35] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 05:31:39] [OK   ] Active forest set to [UHTD (uhtd.local)] (uhtd.local).
+[2026-06-20 05:31:39] [INFO ] Forest [UHTD (uhtd.local)] differs from the script account's forest; credentials are required.
+[2026-06-20 05:31:55] [OK   ] Captured credentials [uhtd\aphill15-sa] for forest [UHTD (uhtd.local)].
+[2026-06-20 05:31:55] [WARN ] Template authoring in [UHTD (uhtd.local)] will use the supplied credentials, but publishing to its CAs, enrollment-rights grants, and principal resolution run under the process token and will be deferred. Perform those from a UHTD account shell.
+[2026-06-20 05:32:06] [ERROR] Exception setting "AuthenticationType": "The following exception occurred while retrieving member "AuthenticationType": "The user name or password is incorrect.
+""
+[2026-06-20 05:32:07] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
+[2026-06-20 05:32:15] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 05:32:15] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 05:32:18] [OK   ] Active forest set to [UHTD (uhtd.local)] (uhtd.local).
+[2026-06-20 05:32:18] [INFO ] Forest [UHTD (uhtd.local)] differs from the script account's forest; credentials are required.
+[2026-06-20 05:32:31] [OK   ] Captured credentials [uhtd\aphill15-sa] for forest [UHTD (uhtd.local)].
+[2026-06-20 05:32:31] [WARN ] Template authoring in [UHTD (uhtd.local)] will use the supplied credentials, but publishing to its CAs, enrollment-rights grants, and principal resolution run under the process token and will be deferred. Perform those from a UHTD account shell.
+[2026-06-20 05:32:32] [ERROR] Exception setting "AuthenticationType": "The following exception occurred while retrieving member "AuthenticationType": "The user name or password is incorrect.
+""
+[2026-06-20 05:32:33] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
+[2026-06-20 05:32:47] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 05:32:47] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 05:32:50] [OK   ] Active forest set to [UHTD (uhtd.local)] (uhtd.local).
+[2026-06-20 05:32:50] [INFO ] Forest [UHTD (uhtd.local)] differs from the script account's forest; credentials are required.
+[2026-06-20 05:33:06] [OK   ] Captured credentials [uhtd\aphill15-sa] for forest [UHTD (uhtd.local)].
+[2026-06-20 05:33:06] [WARN ] Template authoring in [UHTD (uhtd.local)] will use the supplied credentials, but publishing to its CAs, enrollment-rights grants, and principal resolution run under the process token and will be deferred. Perform those from a UHTD account shell.
+[2026-06-20 05:33:08] [ERROR] Exception setting "AuthenticationType": "The following exception occurred while retrieving member "AuthenticationType": "The user name or password is incorrect.
+""
+[2026-06-20 05:33:08] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
+[2026-06-20 05:34:40] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 05:34:40] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 05:34:44] [OK   ] Active forest set to [UHTD (uhtd.local)] (uhtd.local).
+[2026-06-20 05:34:44] [INFO ] Forest [UHTD (uhtd.local)] differs from the script account's forest; credentials are required.
+[2026-06-20 05:34:58] [OK   ] Captured credentials [uhtd\aphill15-sa] for forest [UHTD (uhtd.local)].
+[2026-06-20 05:34:58] [WARN ] Template authoring in [UHTD (uhtd.local)] will use the supplied credentials, but publishing to its CAs, enrollment-rights grants, and principal resolution run under the process token and will be deferred. Perform those from a UHTD account shell.
+[2026-06-20 05:35:00] [ERROR] Exception setting "AuthenticationType": "The following exception occurred while retrieving member "AuthenticationType": "The user name or password is incorrect.
+""
+[2026-06-20 05:35:00] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
+[2026-06-20 19:24:26] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:24:26] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:24:30] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 19:24:42] [INFO ] Relaunching Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)].
+[2026-06-20 19:24:42] [ERROR] Failed to relaunch as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)]: This command cannot be run due to the error: The user name or password is incorrect.. Verify the account name and password, that the account may log on to this computer, and that uhtd.local is reachable.
+[2026-06-20 19:24:43] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
+[2026-06-20 19:25:10] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:25:10] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:25:15] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 19:25:23] [INFO ] Relaunching Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)].
+[2026-06-20 19:25:23] [ERROR] Failed to relaunch as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)]: This command cannot be run due to the error: The user name or password is incorrect.. Verify the account name and password, that the account may log on to this computer, and that uhtd.local is reachable.
+[2026-06-20 19:25:23] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
+[2026-06-20 19:39:26] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:39:26] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:39:30] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 19:39:39] [INFO ] Relaunching Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)] via runas /netonly. Enter the password for uhtd\aphill15-sa at the prompt below.
+[2026-06-20 19:39:40] [WARN ] runas did not start the relaunched session (exit code 1). Common causes: the password prompt was cancelled, the account is locked or disabled, or uhtd.local could not be reached. Remaining on the current forest.
+[2026-06-20 19:39:40] [WARN ] Remaining on forest [UHHS (uhhs.com)].
+[2026-06-20 19:40:33] [INFO ] No actions performed; report email skipped.
+[2026-06-20 19:40:35] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:40:35] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:40:39] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 19:40:46] [INFO ] Relaunching Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)] via runas /netonly. Enter the password for uhtd\aphill15-sa at the prompt below.
+[2026-06-20 19:40:47] [WARN ] runas did not start the relaunched session (exit code 1). Common causes: the password prompt was cancelled, the account is locked or disabled, or uhtd.local could not be reached. Remaining on the current forest.
+[2026-06-20 19:40:47] [WARN ] Remaining on forest [UHHS (uhhs.com)].
+[2026-06-20 19:43:02] [INFO ] No actions performed; report email skipped.
+[2026-06-20 19:43:12] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:43:12] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:43:15] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 19:43:19] [INFO ] Relaunching Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)] via runas /netonly.
+[2026-06-20 19:44:23] [INFO ] No actions performed; report email skipped.
+[2026-06-20 19:48:25] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:48:25] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:48:28] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 19:48:32] [OK   ] Wrote relaunch launcher [C:\Claude Code\Templatorator_Relaunch_UHTD.cmd].
+[2026-06-20 19:48:32] [INFO ] Opening a new window to relaunch Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)].
+[2026-06-20 19:48:32] [OK   ] Launcher started for forest [UHTD (uhtd.local)]. This window will now close.
+[2026-06-20 19:48:32] [INFO ] No actions performed; report email skipped.
+[2026-06-20 19:51:30] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:51:30] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:51:33] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 19:51:37] [OK   ] Wrote relaunch launcher [C:\Claude Code\Templatorator_Relaunch_UHTD.cmd].
+[2026-06-20 19:51:37] [INFO ] Opening a new window to relaunch Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)].
+[2026-06-20 19:51:37] [OK   ] Launcher started for forest [UHTD (uhtd.local)]. This window will now close.
+[2026-06-20 19:51:37] [INFO ] No actions performed; report email skipped.
+[2026-06-20 19:51:46] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:51:46] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:51:50] [OK   ] Loaded module [PSPKI] version [4.4.1].
+[2026-06-20 19:51:50] [INFO ] Forest preset to [UHTD (uhtd.local)] (uhtd.local) from -DomainKey; using the network credentials this session was started with.
+[2026-06-20 19:51:57] [ERROR] Unable to bind RootDSE for forest [UHTD (uhtd.local)] at [LDAP://uhtd.local/RootDSE] and read [configurationNamingContext]: The following exception occurred while retrieving member "RefreshCache": "The user name or password is incorrect.
+". Verify the forest DNS name resolves, a DC is reachable, and the supplied credentials are valid in that forest.
+[2026-06-20 19:51:58] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
+[2026-06-20 19:55:27] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:55:27] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:55:30] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 19:55:34] [OK   ] Wrote relaunch launcher [C:\Claude Code\Templatorator_Relaunch_UHTD.cmd] (it deletes itself after launching).
+[2026-06-20 19:55:34] [INFO ] Opening a new window to relaunch Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)].
+[2026-06-20 19:55:34] [OK   ] Launcher started for forest [UHTD (uhtd.local)]. This window will now close.
+[2026-06-20 19:55:34] [INFO ] No actions performed; report email skipped.
+[2026-06-20 19:55:42] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 19:55:42] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 19:55:46] [OK   ] Loaded module [PSPKI] version [4.4.1].
+[2026-06-20 19:55:46] [INFO ] Forest preset to [UHTD (uhtd.local)] (uhtd.local) from -DomainKey; using the network credentials this session was started with.
+[2026-06-20 19:56:24] [INFO ] Base template selected: [__TD__Web_Server__SAN__2048] (cn [__TD__Web_Server__SAN__2048]).
+[2026-06-20 19:57:12] [INFO ] Active issuing CA set to [tdpkisubca01.uhtd.local\TDPKI-SUBCA01-2025].
+[2026-06-20 19:57:16] [INFO ] Checking whether template [AWPTest__TDWebServer_2048] already exists.
+[2026-06-20 19:57:16] [ERROR] 'Get-CertificateTemplate' command cannot run on this system, because it fails one or more requirements: 'AD DS Domain Membership'
+[2026-06-20 19:57:16] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
+[2026-06-20 22:04:33] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 22:04:33] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 22:04:37] [INFO ] Forest [UHTD (uhtd.local)] is in a different directory than this session's account; a relaunch as a UHTD account is required.
+[2026-06-20 22:04:42] [OK   ] Wrote relaunch launcher [C:\Claude Code\Templatorator_Relaunch_UHTD.cmd] (it deletes itself after launching).
+[2026-06-20 22:04:42] [INFO ] Opening a new window to relaunch Templatorator as [uhtd\aphill15-sa] in forest [UHTD (uhtd.local)].
+[2026-06-20 22:04:42] [OK   ] Launcher started for forest [UHTD (uhtd.local)]. This window will now close.
+[2026-06-20 22:04:42] [INFO ] No actions performed; report email skipped.
+[2026-06-20 22:04:52] [INFO ] Templatorator starting (DryRun = True, forest = UHHS (uhhs.com)).
+[2026-06-20 22:04:52] [INFO ] Logging to directory [C:\Claude Code\Logs], file [C:\Claude Code\Logs\Templatorator_20260620.log].
+[2026-06-20 22:04:56] [OK   ] Loaded optional module [PSPKI] version [4.4.1].
+[2026-06-20 22:04:56] [INFO ] Forest preset to [UHTD (uhtd.local)] (uhtd.local) from -DomainKey; using the network credentials this session was started with.
+[2026-06-20 22:06:01] [INFO ] Base template selected: [__TD__Web_Server__SAN__2048] (cn [__TD__Web_Server__SAN__2048]).
+[2026-06-20 22:07:02] [INFO ] Active issuing CA set to [tdpkisubca01.uhtd.local\TDPKI-SUBCA01-2025].
+[2026-06-20 22:07:08] [INFO ] Checking whether template [__AWPTest__TDWebServer__SAN__2048] already exists.
+[2026-06-20 22:07:09] [INFO ] Reading base template [__TD__Web_Server__SAN__2048] from [CN=Certificate Templates,CN=Public Key Services,CN=Services,CN=Configuration,DC=UHTD,DC=LOCAL].
+[2026-06-20 22:07:09] [DRYRUN] Would create template object [CN=__AWPTest__TDWebServer__SAN__2048,CN=Certificate Templates,CN=Public Key Services,CN=Services,CN=Configuration,DC=UHTD,DC=LOCAL].
+[2026-06-20 22:07:09] [DRYRUN] Would copy base attributes: flags, pKIDefaultKeySpec, pKIKeyUsage, pKIMaxIssuingDepth, pKICriticalExtensions, pKIExpirationPeriod, pKIOverlapPeriod, pKIDefaultCSPs, msPKI-RA-Signature, msPKI-Enrollment-Flag, msPKI-Private-Key-Flag, msPKI-Template-Schema-Version, msPKI-RA-Application-Policies.
+[2026-06-20 22:07:09] [DRYRUN] Would set displayName=[AWP Test TD Web Server], revision=[100.0], msPKI-Minimal-Key-Size=[2048].
+[2026-06-20 22:07:09] [DRYRUN] Would inherit the base template msPKI-Certificate-Name-Flag (subject built as the base defines).
+[2026-06-20 22:07:09] [DRYRUN] Would set pKIExtendedKeyUsage / msPKI-Certificate-Application-Policy=[1.3.6.1.5.5.7.3.1].
+[2026-06-20 22:07:09] [DRYRUN] Would mint a unique template OID under the forest arc and create its msPKI-Enterprise-Oid object.
+[2026-06-20 22:07:09] [DRYRUN] Would inherit the default object security descriptor; the enrollment grant is applied in the ACL step.
+[2026-06-20 22:07:09] [DRYRUN] Would grant Read + Enroll to [UHTD\aphill15-sa] on template [__AWPTest__TDWebServer__SAN__2048].
+[2026-06-20 22:07:09] [DRYRUN] Would publish template [__AWPTest__TDWebServer__SAN__2048] to CA [tdpkisubca01.uhtd.local\TDPKI-SUBCA01-2025].
+[2026-06-20 22:07:26] [OK   ] Report email sent to: Alan.Phillips@UHhospitals.org
